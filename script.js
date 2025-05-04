@@ -1,5 +1,5 @@
 function startNow() {
-  window.location.href = "https://app.nodepay.ai/register";
+  window.location.href = "https://discord.com/invite/tRybkt7fsq";
 }
 
     function toggleMenu() {
